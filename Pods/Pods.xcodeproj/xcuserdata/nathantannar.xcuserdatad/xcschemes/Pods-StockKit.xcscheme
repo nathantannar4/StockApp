@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0830"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "38DF76D41F21A11500D01CDD"
-               BuildableName = "StockKit.app"
-               BlueprintName = "StockKit"
-               ReferencedContainer = "container:StockKit.xcodeproj">
+               BlueprintIdentifier = "8DE295E1D9E4B98CF6A8D1296200806F"
+               BuildableName = "Pods_StockKit.framework"
+               BlueprintName = "Pods-StockKit"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -28,26 +28,7 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "38DF76EB1F21A11500D01CDD"
-               BuildableName = "StockKitTests.xctest"
-               BlueprintName = "StockKitTests"
-               ReferencedContainer = "container:StockKit.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38DF76D41F21A11500D01CDD"
-            BuildableName = "StockKit.app"
-            BlueprintName = "StockKit"
-            ReferencedContainer = "container:StockKit.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -61,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38DF76D41F21A11500D01CDD"
-            BuildableName = "StockKit.app"
-            BlueprintName = "StockKit"
-            ReferencedContainer = "container:StockKit.xcodeproj">
+            BlueprintIdentifier = "8DE295E1D9E4B98CF6A8D1296200806F"
+            BuildableName = "Pods_StockKit.framework"
+            BlueprintName = "Pods-StockKit"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -80,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "38DF76D41F21A11500D01CDD"
-            BuildableName = "StockKit.app"
-            BlueprintName = "StockKit"
-            ReferencedContainer = "container:StockKit.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

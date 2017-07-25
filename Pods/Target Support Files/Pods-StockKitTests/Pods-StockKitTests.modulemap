@@ -1,0 +1,6 @@
+framework module Pods_StockKitTests {
+  umbrella header "Pods-StockKitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

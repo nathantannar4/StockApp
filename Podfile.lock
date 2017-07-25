@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.5.0)
+  - NTComponents (0.0.7)
+  - SwiftChart (0.5.0)
+  - SwiftyJSON (3.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - NTComponents (from `~/Documents/NTComponents`)
+  - SwiftChart
+  - SwiftyJSON (= 3.0.0)
+
+EXTERNAL SOURCES:
+  NTComponents:
+    :path: "~/Documents/NTComponents"
+
+SPEC CHECKSUMS:
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  NTComponents: 04edeaa545613f866314dedd1e48a14cfbd0a615
+  SwiftChart: d1d22d2b1c4582f4d561edf97a210059c00ee256
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+
+PODFILE CHECKSUM: f8dac78987bc8563f6973ce38803589e17ef03a3
+
+COCOAPODS: 1.2.1
